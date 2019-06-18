@@ -1,2 +1,3 @@
-# polysoft-rn-cli
-Polysoft for React Native Cli
+# React Native cli
+
+> 主要用于构建本公司的 RN 项目，方便开发者快速构建工程，一些基础功能已配置，无需每次都创建新的工程然后去搭建项目骨架
