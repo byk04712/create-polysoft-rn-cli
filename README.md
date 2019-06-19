@@ -12,4 +12,4 @@
 
 2. 创建 RN App
 
-    `create-polysoft-rn-cli myApp`
+    `create-polysoft-rn-cli AppName`

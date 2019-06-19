@@ -1,0 +1,31 @@
+{
+  "name": "create-polysoft-rn-cli",
+  "version": "1.0.3",
+  "description": "一个快速构建 React Native 基础项目目录结构的脚手架工具",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-polysoft-rn-cli": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byk04712/create-polysoft-rn-cli.git"
+  },
+  "keywords": [
+    "react-native",
+    "cli"
+  ],
+  "author": "Andy.Q <739694218@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byk04712/create-polysoft-rn-cli/issues"
+  },
+  "homepage": "https://github.com/byk04712/create-polysoft-rn-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "log-update": "^3.2.0",
+    "shelljs": "^0.8.3"
+  }
+}
