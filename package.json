@@ -1,6 +1,6 @@
 {
   "name": "create-polysoft-rn-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "一个快速构建 React Native 基础项目目录结构的脚手架工具",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
